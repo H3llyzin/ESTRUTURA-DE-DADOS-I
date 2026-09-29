@@ -35,5 +35,6 @@ auth.json
 .idea/
 *.iml
 
+ListaTestes/
 # Arquivos compilados do Java
 out/
